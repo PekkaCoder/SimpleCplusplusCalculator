@@ -104,6 +104,7 @@ void runCalculator()
 	cout << "Welcome to calculating numbers!" << endl;
 	while (operation != CalculatorOperation::Exit)
 	{
+		// keep asking operation until it is a valid operator
 		do {
 			operation = askOperation();
 			if (operation == CalculatorOperation::None)
