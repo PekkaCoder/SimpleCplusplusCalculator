@@ -1,0 +1,1 @@
+A very simple C++ calculator for beginners. Does calculations with two numbers (+,x,/,-). Uses functions, enums and "passed by reference" function arguments. Aim is to have a good structure in this program.
